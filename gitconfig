@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edgars.ivanovs@gmail.com
+	name = edgars ivanovs
